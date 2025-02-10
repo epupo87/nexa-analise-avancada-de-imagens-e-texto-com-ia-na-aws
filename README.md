@@ -1,4 +1,6 @@
-# Nexa - Análise Avançada de Imagens e Texto com IA na AWS
+# Desafio Nexa - Análise Avançada de Imagens e Texto com IA na AWS
+
+Primeiro projeto em IA, efetuando a transcrição de texto em imagem utilizando a ferramenta AWS Textract. 
 
 Contém os projetos desenvolvidos durante o curso `Nexa - Análise Avançada de Imagens e Texto com IA na AWS`.
 
